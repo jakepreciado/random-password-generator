@@ -1,5 +1,5 @@
 # random-password-generator
-This is an application that will generate a random password under specified parameters outlines by a user. It is an app an employee can use to generate 
+This is an application that will generate a random password under specified parameters outlined by a user. It is an app an employee can use to generate 
 a random password based on criteria they've selected. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by 
 JavaScript. It will have a clean and polished user interface that is responsive, ensuring that it adapts to multiple screen sizes.
 
