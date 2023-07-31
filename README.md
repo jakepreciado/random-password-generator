@@ -41,6 +41,7 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Links
 Below is a link to the deployed application via GitHub:
+
 https://jmpre28.github.io/random-password-generator/
 
 ## Examples
