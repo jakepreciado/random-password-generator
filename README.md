@@ -49,6 +49,3 @@ https://jmpre28.github.io/random-password-generator/
 3. Once all prompts are answered, a password will then be generated for the user using given parameters.
 
 <img src="./assets/images/randomPasswordGenerator3.jpg" alt="A generated password displayed in a text box." width=800 height=600>
-
-
-### Week 3 challenge of the UofU coding bootcamp.
