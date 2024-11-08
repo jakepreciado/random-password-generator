@@ -34,7 +34,7 @@ THEN the password is either displayed in an alert or written to the page
 ## Links
 Below is a link to the deployed application via GitHub:
 
-https://jmpre28.github.io/random-password-generator/
+https://jakepreciado.github.io/random-password-generator/
 
 ## Examples
 1. A user can see this page upon initial load, and can click "Generate Password" to begin.
